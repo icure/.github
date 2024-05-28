@@ -1,4 +1,4 @@
-# Developer Documentation
+# iCure
 
 ### About iCure
 iCure is a secured and distributed healthcare platform that helps you create apps and share data with the healthcare community.
