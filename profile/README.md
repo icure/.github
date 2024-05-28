@@ -13,11 +13,11 @@ Following your needs, iCure can either be used in the Cloud or installed locally
 
 iCure is:&#x20;
 
-* Easy to use for [web and app developers](icure-data-stack/mobile-web-sdks/)
-* Secured by an [End-to-End encryption](icure-data-stack/end-to-end-encryption.md) scheme
-* Fault-tolerant and highly scalable
-* Compatible with the [FHIR](interoperability/fhir-api-data-exchange/) data model
-* Available as an [XDS](interoperability/iti-registry-repository/) registry/repository
+* Easy to use for web and app developers.
+* Secured by an End-to-End encryption.
+* Fault-tolerant and highly scalable.
+* Compatible with the FHIR.
+* Available as an XDS registry/repository.
 
 ### iCure Open Source projects
 
