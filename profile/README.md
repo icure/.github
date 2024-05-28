@@ -3,7 +3,7 @@
 ### About iCure
 iCure is a secured and distributed healthcare platform that helps you create apps and share data with the healthcare community.
 
-To make it possible, the iCure [Data Model](../../../icure-data-model/README.md) focus on the integrity, the anonymization
+To make it possible, the iCure Data Model focus on the integrity, the anonymization
 and the encryption of your data, without forgetting to make it compatible with higher level Medical Data conceptual
 Data Models (such as FHIR, Open EHR, ...).
 
